@@ -2,6 +2,6 @@
 #include<iostream>
 int main()
 {
-    std::cout<<"Hello boys";
+    std::cout<<"First code of c";
     return 0;
 }
